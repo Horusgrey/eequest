@@ -1,0 +1,16 @@
+{
+  "name": "eduquest",
+  "version": "1.0.0",
+  "description": "EduQuest - The Future of Debt-Free Education",
+  "main": "src/js/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve src/",
+    "build": "echo 'No build step necessary for this demo'"
+  },
+  "author": "Aurion (O) & Zach",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
